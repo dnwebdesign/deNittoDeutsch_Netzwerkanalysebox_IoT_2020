@@ -1,0 +1,5 @@
+com.deNittoDeutsch.IoT_App
+drawable ic_launcher
+id textview
+layout main
+string app_name

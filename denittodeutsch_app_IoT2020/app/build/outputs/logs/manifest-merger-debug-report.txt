@@ -1,0 +1,88 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\deuts\.gradle\caches\transforms-2\files-2.1\805c9e47111fd8d4a681a1d2ff372add\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:3:7-43
+		INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:10:22-72
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:12:19-63
+uses-feature#android.hardware.location.network
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:13:19-67
+application
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:15:5-27:19
+	android:label
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:15:18-54
+	android:allowBackup
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:17:9-36
+activity#com.deNittoDeutsch.IoT_App.IoTappActivity
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:label
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:19:19-51
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:18:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:22:27-74
+service#org.eclipse.paho.android.service.MqttService
+ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:25:9-26:19
+	android:name
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml:25:18-77
+uses-sdk
+INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\deuts\.gradle\caches\transforms-2\files-2.1\805c9e47111fd8d4a681a1d2ff372add\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\deuts\.gradle\caches\transforms-2\files-2.1\805c9e47111fd8d4a681a1d2ff372add\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\deuts\OneDrive\Dokumente\Android Studio Projects\denittodeutsch_app_IoT2020\denittodeutsch_app_IoT2020\app\src\main\AndroidManifest.xml

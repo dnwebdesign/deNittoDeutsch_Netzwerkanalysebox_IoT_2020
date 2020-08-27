@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.deNittoDeutsch.IoT_App",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.deNittoDeutsch.IoT_App",
+        "split": "",
+        "minSdkVersion": "24"
+      }
+    }
+  ]
+}

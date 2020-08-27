@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocationDemo1.iml" filepath="$PROJECT_DIR$/LocationDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/denittodeutsch_app_IoT2020.iml" filepath="$PROJECT_DIR$/.idea/modules/denittodeutsch_app_IoT2020.iml" group="denittodeutsch_app_IoT2020" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/denittodeutsch_app_IoT2020-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/denittodeutsch_app_IoT2020-app.iml" group="denittodeutsch_app_IoT2020/app" />
+    </modules>
+  </component>
+</project>

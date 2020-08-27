@@ -1,0 +1,6 @@
+com/deNittoDeutsch/IoT_App/BuildConfig.java
+ com.deNittoDeutsch.IoT_App.BuildConfig
+com/deNittoDeutsch/IoT_App/IoTappActivity.java
+ com.deNittoDeutsch.IoT_App.IoTappActivity
+ com.deNittoDeutsch.IoT_App.IoTappActivity$1
+ com.deNittoDeutsch.IoT_App.IoTappActivity$1$1
